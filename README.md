@@ -3,6 +3,11 @@ Impact Runner - #1GAM - March 2013
 
 A simple Lode Runner-like made with ImpactJS! This is my March 2013 entry for http://www.onegameamonth.com/ and my first game developed with ImpactJS.
 
+Play the full game at http://mindshaftgames.appspot.com/games/ImpactRunner/impactRunner.jsp
+
+Requires a ImpactJS license to compile &amp; run.
+http://impactjs.com/
+
 The MIT License (MIT)
 
 Copyright (c) 2013 Nicholas DiMucci

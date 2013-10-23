@@ -5,7 +5,7 @@ A simple Lode Runner-like made with ImpactJS! This is my March 2013 entry for ht
 
 Play the full game at http://mindshaftgames.appspot.com/games/ImpactRunner/impactRunner.jsp
 
-Requires a ImpactJS license to compile &amp; run.
+Requires a ImpactJS license to run locally.
 http://impactjs.com/
 
 The MIT License (MIT)
